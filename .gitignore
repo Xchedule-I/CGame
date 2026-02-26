@@ -24,3 +24,4 @@ dist/
 
 # cliff.toml
 cliff.toml
+changelog.sh

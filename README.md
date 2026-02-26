@@ -16,4 +16,23 @@ Have an idea, bug fix, or enhancement?
 ### Contribution Flow
 Fork → Clone → Create a new branch → Push → Open PR → Review by maintainers
 
+#### Setup the environment 
+
+To reproduce this exact environment use the following commands 
+
+```bash
+git clone https://github/BITS-Rohit/CGame
+cd CGame
+uv sync
+source .venv/bin/activate
+```
+
+This will install the required files and the python version defined in the `.python-version` file.
+
+Make sure you have `uv` installed. 
+
+View this link for more information on `uv`
+
+<https://docs.astral.sh/uv/>
+
 Contributors are welcome.
