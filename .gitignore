@@ -21,3 +21,7 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+# cliff.toml
+cliff.toml
+changelog.sh
