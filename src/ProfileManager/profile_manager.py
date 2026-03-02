@@ -35,7 +35,7 @@ class ProfileManager:
 
     def create_profile(self, profile: ProfileConfig) -> None:
         """Create the directory structure for a new profile on disk."""
-        self.dir.setup_profile_directories(profile.name)
+        pass
 
     def remove_profile(self, profile: ProfileConfig) -> None:
         """Permanently delete a profile's directory from disk."""
