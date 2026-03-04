@@ -40,6 +40,8 @@
 
 ### :wrench: Miscellaneous
 
+- **(cl update)** Updated CHANGELOG - ([22c298c](https://github.com/Vaishnav-Sabari-Girish/CGame/commit/22c298ce988c07894a0b722744c14bb1ea0211df)) by @Vaishnav-Sabari-Girish
+
 - **(merge conflit)** Fixed - ([3a9ec40](https://github.com/Vaishnav-Sabari-Girish/CGame/commit/3a9ec4082cfbfaaa1bc789ca06c49e65797ae107)) by @Vaishnav-Sabari-Girish
 
 - **(cl update)** Update CHANGELOG - ([51c6e91](https://github.com/Vaishnav-Sabari-Girish/CGame/commit/51c6e912eebb84785a1a9fc0e54e91bcfcb5748d)) by @Vaishnav-Sabari-Girish
@@ -61,6 +63,8 @@ Update README.md and add initial project setup - ([17aa86b](https://github.com/V
 
 
 ### :page_facing_up: Documentation
+
+- **(add ROADMAP)** Added ROADMAP.md file - ([bed1fa5](https://github.com/Vaishnav-Sabari-Girish/CGame/commit/bed1fa54bdf91cb40e1803b3699b36f63f37f081)) by @Vaishnav-Sabari-Girish
 
 - **(add discord link)** Discord Link added - ([89bc631](https://github.com/Vaishnav-Sabari-Girish/CGame/commit/89bc6318507245211676c9ef2f0e1b0c35f9542c)) by @Vaishnav-Sabari-Girish
 
