@@ -17,6 +17,10 @@
 
 ### :package: Other
 
+- Revert():
+
+Signed-off-by: Vaishnav Sabari Girish <vaishnav.sabari.girish@gmail.com> - ([c001e85](https://github.com/Vaishnav-Sabari-Girish/CGame/commit/c001e851f1e6948ac683757601193a80690e1bcf))
+
 - GameState.json paths & exposers added - ([592c7a6](https://github.com/Vaishnav-Sabari-Girish/CGame/commit/592c7a6f8832067c5a92c67b64884e2f9390490a)) by @BITS-Rohit
 
 - Add Stable Multi-Platform placeholder functions & fixes - ([720a84a](https://github.com/Vaishnav-Sabari-Girish/CGame/commit/720a84add569a62f6e0b862f9e3d74d1c43b352f)) by @BITS-Rohit
