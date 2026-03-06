@@ -3,7 +3,7 @@ from pathlib import Path
 from typing import Final, cast
 
 # Save directly in the current project directory
-STATE_FILE: Final[Path] = Path("save.json")
+STATE_FILE: Final[Path] = Path("../../save.json")
 
 def save_state(x: int, y: int) -> None :
     '''Saves player co-ordinates to local .json file'''
