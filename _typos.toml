@@ -1,0 +1,11 @@
+[default.extend-words]
+uv = "uv"
+
+
+[default]
+extend-ignore-identifiers-re = [
+  "^ns_.*$",
+]
+
+[files]
+extend-exclude = ["CHANGELOG.md"]

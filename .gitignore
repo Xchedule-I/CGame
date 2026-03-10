@@ -22,10 +22,6 @@ build/
 dist/
 *.egg-info/
 
-# cliff.toml
-cliff.toml
-changelog.sh
-
 # files for state
 *.kdl
 save.json
